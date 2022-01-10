@@ -2,9 +2,6 @@
 - This is a backend component of a microservice full-stack application
 - It is built with node and express
 
-## WEBSITE
-- http://iproudyou.com
-
 ## STRUCTURE
 - Communicates with app-ui via **RESTful API and GraphQL**
 - Created a middleware for a user authentication with **JWT-Token**
