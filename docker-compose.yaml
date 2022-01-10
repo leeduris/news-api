@@ -1,0 +1,9 @@
+version: '3.7'
+
+services: 
+  app-api:
+    container_name: app-api
+    build: .
+    env_file: .env
+    ports: 
+      - '8081:8081'
